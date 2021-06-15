@@ -2,5 +2,5 @@ Pi-Hole
 
 First of all we Update our pihole: pihole -up
 
-Then we look in de Blocklist.
+Then we look in de Blocklist. http://yourIP/admin
 There we can put the List's in.

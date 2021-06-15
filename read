@@ -1,0 +1,6 @@
+Pi-Hole
+
+First of all we Update our pihole: pihole -up
+
+Then we look in de Blocklist.
+There we can put the List's in.
